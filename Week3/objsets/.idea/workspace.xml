@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79a87675-edef-4f47-a94d-7fc39d6504c0" name="Default Changelist" comment="" />
+    <list default="true" id="31e22090-82d2-4f23-b4ab-cb6e45773911" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +22,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1czwjg2EbMxVhpAn6s0yMs5mOpY" />
+  <component name="ProjectId" id="1czzEeligPcPfnO9dU5nM2X6JgJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -89,12 +100,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="79a87675-edef-4f47-a94d-7fc39d6504c0" name="Default Changelist" comment="" />
-      <created>1591544865488</created>
+      <changelist id="31e22090-82d2-4f23-b4ab-cb6e45773911" name="Default Changelist" comment="" />
+      <created>1591546099893</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591544865488</updated>
+      <updated>1591546099893</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="656" y="-888" width="607" height="536" key="find.popup" timestamp="1591546669618">
+      <screen x="0" y="-1200" width="1920" height="1160" />
+    </state>
+    <state x="656" y="-888" width="607" height="536" key="find.popup/0.0.1920.1040/0.-1200.1920.1160@0.-1200.1920.1160" timestamp="1591546669618" />
   </component>
 </project>
